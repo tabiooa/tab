@@ -1,0 +1,13 @@
+git clone +github地址/ssh #克隆
+git add +文件名 +文件名 #添加
+git add. #添加包下所有文件
+git commit -m +"备注" #提交
+git push #上传
+git pull #下载
+
+分支
+    git branch #查询分支
+    git branch +分支 #创建分支
+    git merge +被合并分支 #合并分支
+    git branch -d  +分支名 #删除分支
+    git checkout +分支 #切换分支
