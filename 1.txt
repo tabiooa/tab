@@ -1,6 +1,7 @@
 git clone +github地址/ssh #克隆
 git add +文件名 +文件名 #添加
 git add. #添加包下所有文件
+git init 
 git commit -m +"备注" #提交
 git push #上传
 git pull #下载
